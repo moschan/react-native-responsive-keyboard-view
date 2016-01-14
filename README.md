@@ -4,6 +4,8 @@ react-native-responsive-keyboard-view
 
 [![npm](https://img.shields.io/npm/v/react-native-responsive-keyboard-view.svg)]()[![npm](https://img.shields.io/npm/l/react-native-responsive-keyboard-view.svg)]()
 
+[![NPM](https://nodei.co/npm/react-native-responsive-keyboard-view.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-responsive-keyboard-view/)
+
 
 Demo
 ---
