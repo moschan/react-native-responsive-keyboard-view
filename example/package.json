@@ -6,6 +6,7 @@
     "start": "react-native start"
   },
   "dependencies": {
-    "react-native": "^0.17.0"
+    "react-native": "^0.17.0",
+    "react-native-responsive-keyboard-view": "^1.0.0"
   }
 }

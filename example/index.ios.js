@@ -4,7 +4,8 @@
  */
 'use strict';
 
-import ResponsiveKeyboardView from './index.js'
+// import ResponsiveKeyboardView from './index.js'
+import ResponsiveKeyboardView from 'react-native-responsive-keyboard-view'
 
 var React = require('react-native');
 var {
