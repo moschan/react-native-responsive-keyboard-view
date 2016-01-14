@@ -1,0 +1,31 @@
+{
+  "name": "react-native-responsive-keybord-view",
+  "version": "1.0.0",
+  "description": "The responsive view when you open or close keyboard for React Native",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moschan/react-native-responsive-keybord-view.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "view",
+    "keyboard"
+  ],
+  "author": "moschan <kota.frsw＠gmail.com> (http://moschan.com/blog)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moschan/react-native-responsive-keybord-view/issues"
+  },
+  "homepage": "https://github.com/moschan/react-native-responsive-keybord-view#readme"
+}
