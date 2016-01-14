@@ -1,5 +1,5 @@
 {
-  "name": "react-native-responsive-keybord-view",
+  "name": "react-native-responsive-keyboard-view",
   "version": "1.0.0",
   "description": "The responsive view when you open or close keyboard for React Native",
   "main": "index.js",
